@@ -21,18 +21,6 @@
     <a href="https://m2.material.io/design/introduction">
       <img src="https://img.shields.io/badge/Forenwid%20Neumorphism-0.3.0-blue.svg?color=blue&style=for-the-badge"/>
     </a>
-    <a href = " ">
-        <img src=" " />
-    </a>
-    <a href = " ">
-        <img src=" " />
-    </a>
-    <a href = " ">
-        <img src=" " />
-    </a>
-    <a href = " ">
-        <img src=" " />
-    </a>
 </p>
 
 ### The purpose of this repository
