@@ -37,7 +37,7 @@
 </td> 
 <td>
 
-  <img src = "NeuWeather_SS/NeuWeatherDemo.gif" width="240"/>
+  <img src = "NeuWeather_SS/NeuWeatherDemo.gif" width="220"/>
 </td>
 </tr>
 </table>
